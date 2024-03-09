@@ -9,6 +9,9 @@ Casino Number Guessing Game is a simple console-based game where the player has 
 - Feedback on the correctness of the guess (too high, too low, or correct).
 - Limited number of attempts.
 
+## Screen
+   ![project-4](https://github.com/Rahuljoshi07/.-Casino-Number-Guessing-Game/assets/86591216/a6c25ba2-753e-4a0b-9adf-ac66f72c7a7b)
+
 ## Technologies Used
 
 - C++
