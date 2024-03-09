@@ -10,8 +10,7 @@ Casino Number Guessing Game is a simple console-based game where the player has 
 - Limited number of attempts.
 
 ## Screen
-![project-4](https://github.com/Rahuljoshi07/.-Casino-Number-Guessing-Game/assets/86591216/89ef5666-991a-45f4-9d4d-fa7978ac4273)
-
+![project-4](https://github.com/Rahuljoshi07/.-Casino-Number-Guessing-Game/assets/86591216/215f6886-26dd-4243-bcb8-9b193fbb2d6b)
 
 ## Technologies Used
 
